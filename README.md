@@ -9,7 +9,7 @@ This project focuses on **Data Storytelling** using the Tips dataset. We analyze
 * **Dataset Name:** Tips Dataset
 * **Link:** https://raw.githubusercontent.com/mwaskom/seaborn-data/master/tips.csv
 ## Output Screenshots
-![Project Output](https://github.com/likhitha-1231/Data-Storytelling-App/raw/main/screenshot_2)
+![Project Output](https://github.com/likhitha-1231/Data-Storytelling-App/tree/main/Screenshot_2)
 
 ## Instructions to Run the Project
 1. **Clone the repository:**
